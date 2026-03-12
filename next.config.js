@@ -1,3 +1,4 @@
+// B2B Lead Enrichment Engine - Next.js Configuration
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
